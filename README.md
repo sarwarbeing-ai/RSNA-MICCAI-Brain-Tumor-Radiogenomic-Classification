@@ -2,3 +2,6 @@ A malignant tumor in the brain is a life-threatening condition. Known as gliobla
 
 
 The job was to predict the genetic subtype of glioblastoma using MRI (magnetic resonance imaging) scans.Model was built to detect for the presence of MGMT promoter methylation.The model was trained to predict the probability for the presence of MGMT promoter methylation.
+
+
+### I ranked 170th of 1555 ,top 11% .

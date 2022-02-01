@@ -5,3 +5,5 @@ The job was to predict the genetic subtype of glioblastoma using MRI (magnetic r
 
 
 ### I ranked 170th of 1555 ,top 11% .
+
+### Not possible to upload test and train data as they are very huge in size .Nevertheless the data can be found in Kaggle itself under the competition name.
